@@ -5,5 +5,14 @@
 @tailwind utilities;
 
 body {
+    background-color: #F2EAE2;
+}
 
+.fraunces {
+    font-family: 'Fraunces', serif;
+    font-feature-settings: 'liga' off, 'clig' off;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
 }
